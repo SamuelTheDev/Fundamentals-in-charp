@@ -1,0 +1,4 @@
+- [[Operadores aritméticos]]
+- [[Operadores de atribuição]]
+- [[Operadores Lógicos]]
+- [[Operadores comparativos]]

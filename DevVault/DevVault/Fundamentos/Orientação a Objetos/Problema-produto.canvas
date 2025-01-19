@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"d6a4b2ee919c556d","type":"text","text":"Exemplo:","x":-240,"y":-180,"width":250,"height":60},
+		{"id":"986afd17070f1fa1","type":"text","text":"![[Pasted image 20241129131906.png]]","x":-362,"y":-120,"width":495,"height":180},
+		{"id":"a9a6d096ea4d35c7","x":-504,"y":200,"width":780,"height":1520,"type":"file","file":"Fundamentos/Orientação a Objetos/Código Produto.md"}
+	],
+	"edges":[
+		{"id":"80a2e20d7d4a01f2","fromNode":"986afd17070f1fa1","fromSide":"bottom","toNode":"a9a6d096ea4d35c7","toSide":"top"}
+	]
+}

@@ -1,0 +1,165 @@
+{
+  "main": {
+    "id": "89698c2fb6550ffa",
+    "type": "split",
+    "children": [
+      {
+        "id": "b78c56f8f522602a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "df6ac190b930273c",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "DevVault/Imgs/Pasted image 20250119153755.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250119153755"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7f3e30b22accfa57",
+    "type": "split",
+    "children": [
+      {
+        "id": "62a152af72e39129",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6360f38fce73b0d5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "1c163856853253c3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "0a25559e7dad4fbc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6fa1d22d7429cb03",
+    "type": "split",
+    "children": [
+      {
+        "id": "23e8b89a44a5c1a2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5c34367fe9db657c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "DevVault/Imgs/Pasted image 20250119153755.png",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para Pasted image 20250119153755"
+            }
+          },
+          {
+            "id": "7b37bc7629f9d94e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "DevVault/Imgs/Pasted image 20250119153755.png",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para Pasted image 20250119153755"
+            }
+          },
+          {
+            "id": "8038981e0f0b1f50",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e07f8254ddf03b63",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "DevVault/Imgs/Pasted image 20250119153755.png"
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de Pasted image 20250119153755"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "6360f38fce73b0d5",
+  "lastOpenFiles": []
+}

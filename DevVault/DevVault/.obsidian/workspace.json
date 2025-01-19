@@ -1,0 +1,225 @@
+{
+  "main": {
+    "id": "11b0b127e8ca801a",
+    "type": "split",
+    "children": [
+      {
+        "id": "079d92b53a35497e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "84212607844fb29c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fundamentos/Orientação a Objetos/Enumerações.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Enumerações"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "434e888cf70276fc",
+    "type": "split",
+    "children": [
+      {
+        "id": "a05cc34f874664b0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "55323bef0cbfbf0a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "b96a16dcb5a6080a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "e78b6fb3846e6f6c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "ad27fc1d2fb6a388",
+    "type": "split",
+    "children": [
+      {
+        "id": "46e9152050951ca5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cb6f7adb9db1fd1f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "d5dcca762c1a7aa7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída"
+            }
+          },
+          {
+            "id": "81c8cf290c9acf7a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "6303f78582f9f1c0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Sumário"
+            }
+          },
+          {
+            "id": "3b96d276ee60fea4",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "84212607844fb29c",
+  "lastOpenFiles": [
+    "Pasted image 20250119155143.png",
+    "Fundamentos/Orientação a Objetos/Sumário (POO).md",
+    "Pasted image 20250119154839.png",
+    "Fundamentos/Orientação a Objetos/Enumerações.md",
+    "Fundamentos/Lógica de programação/Variáveis e tipos básicos.md",
+    "Pasted image 20250119154520.png",
+    "Pasted image 20250119154446.png",
+    "Pasted image 20250119153755.png",
+    "Fundamentos/Lógica de programação/Restrições e convenções para nomes.md",
+    "Fundamentos/Orientação a Objetos/Problema-produto.canvas",
+    "Fundamentos/Orientação a Objetos/Modelo de Domínio.md",
+    "Fundamentos/Lógica de programação/Primeiros passos.md",
+    "Fundamentos/Orientação a Objetos/Membros Estáticos.md",
+    "Imgs/Pasted image 20241230150330.png",
+    "Imgs/Pasted image 20241230151435.png",
+    "Fundamentos/Orientação a Objetos/Modificador de Parâmetros.md",
+    "Imgs/Pasted image 20250102150520.png",
+    "Imgs/Pasted image 20250102150352.png",
+    "Imgs/Pasted image 20250102150203.png",
+    "Imgs/Pasted image 20250102150049.png",
+    "Fundamentos/Lógica de programação/Operadores/Operadores Lógicos.md",
+    "Fundamentos/Orientação a Objetos/Nullable.md",
+    "Fundamentos/Orientação a Objetos/Código Produto.md",
+    "Fundamentos/Orientação a Objetos/Classes, objetos e atributos.md",
+    "Fundamentos/Lógica de programação/Conversão implícita e casting.md",
+    "Fundamentos/Lógica de programação/Funções.md",
+    "Fundamentos/Orientação a Objetos/Métodos (this, sobrecarga e encapsulamento).md",
+    "Rotina de estudo/GEMINI.md",
+    "Rotina de estudo/CHAT-GPT.md",
+    "Fundamentos/Orientação a Objetos/Construtores.md",
+    "Entrevistas de emprego/Localiza&CO.md",
+    "Fundamentos/Qualidade de código e testes/SOLID.md",
+    "Fundamentos/Docker e Kubernetes/Docker.md",
+    "Entrevistas de emprego/English/Interview/English Interview simulation.md",
+    "Palavra THIS.md",
+    "Arquitetura de Software",
+    "Fundamentos/Docker e Kubernetes",
+    "Fundamentos/Qualidade de código e testes/Testes de unidade.md",
+    "Fundamentos/Qualidade de código e testes",
+    "Rotina de estudo",
+    "Entrevistas de emprego",
+    "Imgs/Sem título.canvas",
+    "Entrevistas de emprego/English/Interview",
+    "Entrevistas de emprego/English",
+    "properties.md",
+    "Fundamentos/Orientação a Objetos",
+    "Imgs",
+    "Fundamentos/Lógica de programação/Estruturas",
+    "Sem título.canvas"
+  ]
+}
