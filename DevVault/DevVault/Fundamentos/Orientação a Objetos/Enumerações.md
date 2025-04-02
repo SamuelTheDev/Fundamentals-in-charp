@@ -19,3 +19,4 @@ class Order {
 	public OrderStatus Status { get; set; }
 }
 ```
+![[Pasted image 20250119161935.png]]

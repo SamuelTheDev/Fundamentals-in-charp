@@ -1,0 +1,15 @@
+C:\Projects\Fundamentos-C#\EnumSample\EnumSample\bin\Debug\net8.0\EnumSample.exe
+C:\Projects\Fundamentos-C#\EnumSample\EnumSample\bin\Debug\net8.0\EnumSample.deps.json
+C:\Projects\Fundamentos-C#\EnumSample\EnumSample\bin\Debug\net8.0\EnumSample.runtimeconfig.json
+C:\Projects\Fundamentos-C#\EnumSample\EnumSample\bin\Debug\net8.0\EnumSample.dll
+C:\Projects\Fundamentos-C#\EnumSample\EnumSample\bin\Debug\net8.0\EnumSample.pdb
+C:\Projects\Fundamentos-C#\EnumSample\EnumSample\obj\Debug\net8.0\EnumSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Fundamentos-C#\EnumSample\EnumSample\obj\Debug\net8.0\EnumSample.AssemblyInfoInputs.cache
+C:\Projects\Fundamentos-C#\EnumSample\EnumSample\obj\Debug\net8.0\EnumSample.AssemblyInfo.cs
+C:\Projects\Fundamentos-C#\EnumSample\EnumSample\obj\Debug\net8.0\EnumSample.csproj.CoreCompileInputs.cache
+C:\Projects\Fundamentos-C#\EnumSample\EnumSample\obj\Debug\net8.0\EnumSample.sourcelink.json
+C:\Projects\Fundamentos-C#\EnumSample\EnumSample\obj\Debug\net8.0\EnumSample.dll
+C:\Projects\Fundamentos-C#\EnumSample\EnumSample\obj\Debug\net8.0\refint\EnumSample.dll
+C:\Projects\Fundamentos-C#\EnumSample\EnumSample\obj\Debug\net8.0\EnumSample.pdb
+C:\Projects\Fundamentos-C#\EnumSample\EnumSample\obj\Debug\net8.0\EnumSample.genruntimeconfig.cache
+C:\Projects\Fundamentos-C#\EnumSample\EnumSample\obj\Debug\net8.0\ref\EnumSample.dll

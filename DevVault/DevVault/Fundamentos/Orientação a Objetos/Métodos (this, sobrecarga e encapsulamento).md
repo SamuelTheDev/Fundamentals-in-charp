@@ -1,4 +1,3 @@
-
 ## Método
 - Um método é um *bloco de código* que contém uma série de *instruções*.
 - Um programa faz com que as instruções sejam executadas chamando o método e especificando *os argumentos* de métodos necessários.

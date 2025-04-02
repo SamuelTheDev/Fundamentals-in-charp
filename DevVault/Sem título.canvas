@@ -1,0 +1,22 @@
+{
+	"nodes":[
+		{"id":"aa07f3cb8a960add","x":-480,"y":-240,"width":250,"height":60,"type":"text","text":"tb_ticketflow"},
+		{"id":"ecc5215520bdeb59","x":-480,"y":-180,"width":250,"height":60,"type":"text","text":"- ticket_id"},
+		{"id":"dcb71dd406fe8625","x":-80,"y":-240,"width":250,"height":60,"type":"text","text":"tb_ticket"},
+		{"id":"a4776e9c2b8d2177","x":-80,"y":-180,"width":250,"height":60,"type":"text","text":"- Id"},
+		{"id":"074bf28cbd3c14bb","x":-80,"y":-120,"width":250,"height":60,"type":"text","text":"- tec_id"},
+		{"id":"d4363f000f5b3930","x":-80,"y":100,"width":250,"height":60,"type":"text","text":"tb_user"},
+		{"id":"95670135a3a09e0b","x":-80,"y":160,"width":250,"height":60,"type":"text","text":"- id"},
+		{"id":"8cf035b6a7a3fd3c","x":-80,"y":220,"width":250,"height":60,"type":"text","text":"- Name"},
+		{"id":"78189f6723959caa","x":-480,"y":-120,"width":250,"height":60,"type":"text","text":"- flowstate_id"},
+		{"id":"00b5bfddfe1fe3fd","x":-480,"y":70,"width":250,"height":60,"type":"text","text":"tb_flowstate"},
+		{"id":"eec8e28831eda538","x":-480,"y":130,"width":250,"height":60,"type":"text","text":"- id"},
+		{"id":"53a5cbd302717859","x":-480,"y":190,"width":250,"height":60,"type":"text","text":"- where macroflowstate_id = 1"},
+		{"id":"6a1523eb734075c6","x":-355,"y":360,"width":360,"height":300,"type":"text","text":"[{\n user_name>tb_user\n ticket_criticity_id>_tb_criticality\n ticket_station_name>tb_station\n ticket_code>tb_ticket\n ticker_flow_startat\n ''\n \n}]"}
+	],
+	"edges":[
+		{"id":"4c465ce5c65d4f6d","fromNode":"ecc5215520bdeb59","fromSide":"right","toNode":"a4776e9c2b8d2177","toSide":"left"},
+		{"id":"1461557c73baca1b","fromNode":"074bf28cbd3c14bb","fromSide":"left","toNode":"95670135a3a09e0b","toSide":"left"},
+		{"id":"b1e506c9bdaee0ee","fromNode":"78189f6723959caa","fromSide":"left","toNode":"eec8e28831eda538","toSide":"left"}
+	]
+}

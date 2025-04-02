@@ -4,3 +4,4 @@
 - [[Membros Estáticos]]
 - [[Métodos (this, sobrecarga e encapsulamento)]]
 - [[Enumerações]]
+- [[Design de Classes]]
